@@ -1,6 +1,6 @@
 # VMKLA-UNet
 Implementation of VMKLA-UNet
-
+![image](model/model.png)
 ## 1.Main Environments
 ```bash
 conda create -n vmkla python=3.8
